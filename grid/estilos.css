@@ -1,0 +1,116 @@
+/* NAVBAR */
+.navbar-brand {
+  padding: 2px !important;
+}
+
+
+
+
+/* JUMBOTRON */
+.jumbotron {
+    background-image: url("http://img08.deviantart.net/4c93/i/2013/164/c/e/triangle_pattern_v2_by_black_light_studio-d68vrf3.png");
+    background-color: #17234E;
+    margin-bottom: 0;`enter code here`
+    min-height: 10%;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.Elementoh1 {
+  font-size: 55px;
+  color: #005858;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: bold;
+}
+
+.ordena_ahora {
+  font-family: 'Cutive Mono', monospace;
+  color: white;
+  background-color: black;
+  padding-left: 20px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+
+}
+
+.btn-primary ,.btn-primary:focus,.btn-primary:active,.btn-primary:visited {
+  background-color: black !important;
+  color: white !important;
+  background-image: none !important;
+    font-family: 'Julius Sans One', sans-serif;
+
+}
+
+.btn:hover { 
+  background-color: #4d433e !important;
+  font-weight: bold;
+
+}
+
+
+
+
+
+/* THUMBNAILS */
+.img_thumbnail {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.font_thumbnail {
+  font-family:  'Julius Sans One', sans-serif;
+}
+
+
+
+
+
+
+#video_description {
+  font-family: 'Cinzel', serif;
+  text-align: justify;
+
+}
+
+
+
+.panel-group {
+  margin: auto;
+  font-family:  'Julius Sans One', sans-serif;
+}
+
+.panel-body {
+  font-family: 'Average Sans', sans-serif;
+}
+
+
+.table_h1 {
+  font-family: 'Graduate', cursive;
+
+}
+
+.headlines {
+  font-family: 'Graduate', cursive;
+  font-weight: bold;
+}
+
+
+
+.love {
+  font-family: 'Cutive Mono', monospace;
+  text-align: center;
+  margin: 0 ;
+}
+
+
+
+
+
+
+
+
+
+
